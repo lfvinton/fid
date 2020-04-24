@@ -1,0 +1,30 @@
+body {
+background-color: #658080;
+margin: 0 10%;
+font-family: serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Notable');
+
+
+
+h1 {
+/* text-align: center;
+color: #B35824; */
+/* width: 600px; */
+  /* margin: 0 auto; */
+  font-family: "Notable", sans-serif;
+  /* font-weight: 100;
+  font-variant-ligatures: normal;
+  font-size: 4rem;
+  letter-spacing: 1px; */
+/* border-bottom: 2px solid #64CCCC;
+margin-top: 30px; */
+}
+
+h2 {
+color: #1F3A40;
+font-family: New Century Schoolbook, serif;
+font-size: 2em;
+border-bottom: 2px solid #1F3A40;
+}
