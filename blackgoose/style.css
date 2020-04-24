@@ -2,16 +2,13 @@
 
 
 body {
-background-color: #FFC9C2;
-margin: 0 10%;
+background-color: #FFC9C2
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 h1 {
 text-align: center;
 color: #849159;
-width: 600px;
-  margin: 0 auto;
   font-family: "Poiret One", sans-serif;
   font-weight: 100;
   font-variant-ligatures: normal;
@@ -20,18 +17,28 @@ width: 600px;
 margin-top: 30px;
 }
 
+a {
+  color: orange;
+}
+a:hover{
+  text-decoration: none;
+}
+.resturantname {
+  border-bottom: 2px solid #6483B3;
+}
+
 h2 {
 color: #6483B3;
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 font-size: 2em;
 }
 
+.subhead {
+  font-size: 1.5em;
+}
+
 h3 {
   color: #6483B3;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 1.5em;
-}
-
-.newitem {
-  font-color: #C2FAFF
 }
