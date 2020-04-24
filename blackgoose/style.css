@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+body {
+background-color: #FFC9C2;
+margin: 0 10%;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h1 {
+text-align: center;
+color: #849159;
+width: 600px;
+  margin: 0 auto;
+  font-family: "Poiret One", sans-serif;
+  font-weight: 100;
+  font-variant-ligatures: normal;
+  font-size: 4rem;
+  letter-spacing: 1px;
+margin-top: 30px;
+}
+
+h2 {
+color: #6483B3;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 2em;
+}
+
+h3 {
+  color: #6483B3;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.5em;
+}
+
+.newitem {
+  font-color: #C2FAFF
+}
