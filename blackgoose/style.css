@@ -2,7 +2,7 @@
 
 
 body {
-background-color: #FFC9C2
+background-color: #FFC9C2;
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
@@ -14,7 +14,7 @@ color: #849159;
   font-variant-ligatures: normal;
   font-size: 4rem;
   letter-spacing: 1px;
-margin-top: 30px;
+  margin-top: 30px;
 }
 
 a {
