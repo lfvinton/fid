@@ -1,0 +1,120 @@
+/* global
+****************************/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Yeseva+One&display=swap');
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Yeseva One', cursive;
+  font-size: 4em;
+}
+
+#helping h2 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 1.5em;
+}
+.prog-info {
+  font-family: 'Roboto Slab', serif;
+  font-family: 1.5em;
+}
+
+
+
+
+
+
+
+/* header/footer
+*******************************/
+header, footer {
+background-color: #BFCDB6;
+font-family:  "Palatino Linotype", "Book Antiqua", Palatino, serif;
+color: #5C3129;
+margin: 0;
+text-align: center;
+padding: 50px;
+}
+header {
+  text-align: center;
+  padding: 50px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+}
+
+#basics {
+  background-color: #7B8C56;
+}
+
+
+
+
+
+
+/* section
+*******************************/
+.info {
+  background: #DBE1E5;
+  text-align: center;
+  padding: 50px;
+  color: ##BF5E93;
+  line-height: 24px;
+  font-size: large;
+}
+.links {
+  background: #DBE1E5;
+  text-align: center;
+  padding: 50px;
+  }
+  .links a:link, a:visited {
+  background-color: #BF5E93;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.half-page-image {
+  width: 50%;
+  float: left;
+}
+.program-info, .lists {
+  background: #DBE1E5;
+  padding: 50px;
+  margin: 0 auto;
+  line-height: 24px;
+  font-size: large;
+}
+
+.program-info {
+  text-align: center;
+  padding: 50px;
+}
+
+#eligible {
+  background: #DBE1E5;
+  color: #BF5E93;
+  padding: 50px;
+  margin: 0 auto;
+}
+
+.lists {
+  background: #DBE1E5;
+  padding: 50px;
+  margin: 0 auto;
+  line-height: 24px;
+  font-size: large;
+}
+
+#how-to {
+  background: #DBE1E5;
+  padding: 50px;
+  margin: 0 auto;
+  line-height: 24px;
+  font-size: large;
+}
